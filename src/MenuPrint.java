@@ -65,7 +65,7 @@ public class MenuPrint {
                 System.out.print(" ");
             }
             for (int k = width; k >= i; k--) {
-                System.out.print(" *");
+                System.out.print("* ");
             }
             System.out.print("\n");
         }
